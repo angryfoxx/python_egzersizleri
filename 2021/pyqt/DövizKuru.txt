@@ -1,0 +1,24 @@
+Türk Lirası -- Dolar = 0.10319278476048954
+Türk Lirası -- Euro = 0.08914086038758447
+Türk Lirası -- Sterlin = 0.07639827951074542
+Türk Lirası -- Yen = 11.698369247326923
+Dolar -- Türk Lirası = 9.6906
+Dolar -- Euro = 0.8644
+Dolar -- Sterlin = 0.7556
+Dolar -- Yen = 113.4
+Euro -- Türk Lirası = 11.2182
+Euro -- Dolar = 1.1568
+Euro -- Sterlin = 0.8777
+Euro -- Yen = 131.19
+Sterlin -- Türk Lirası = 13.0893
+Sterlin -- Dolar = 1.3498
+Sterlin -- Euro = 1.1666
+Sterlin -- Yen = 153.063
+Yen -- Türk Lirası = 0.085482
+Yen -- Dolar = 0.008818342151675485
+Yen -- Euro = 0.007622532205198567
+Yen -- Sterlin = 0.006533257547545782
+
+Tarih: 22.56  |  07.11.2021
+
+

@@ -1,0 +1,1073 @@
+C:\Users\Fox =========> BullseyeCoverageError.txt
+C:\Users\Fox =========> Yeni Metin Belgesi.txt
+C:\Users\Fox\.vscode\extensions\abusaidm.html-snippets-0.2.1 =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.842923320\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydevd_frame_eval\vendored =========> README.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501 =========> jedils_requirements.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501 =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501 =========> requirements.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501 =========> ThirdPartyNotices-Distribution.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501 =========> ThirdPartyNotices-Repository.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\out\startPage-ui\viewers =========> commons.initial.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\jedilsp\jedi\third_party\django-stubs =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\jedilsp\parso\python =========> grammar310.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\jedilsp\parso\python =========> grammar36.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\jedilsp\parso\python =========> grammar37.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\jedilsp\parso\python =========> grammar38.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\jedilsp\parso\python =========> grammar39.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\debugpy =========> ThirdPartyNotices.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\debugpy\_vendored\pydevd\pydevd_attach_to_process =========> README.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\debugpy\_vendored\pydevd\pydev_sitecustomize =========> __not_in_default_pythonpath.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydevd_frame_eval\vendored =========> README.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\jedi\third_party\django-stubs =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar27.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar310.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar33.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar34.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar35.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar36.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar37.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar38.txt
+C:\Users\Fox\.vscode\extensions\ms-python.python-2021.5.926500501\pythonFiles\lib\python\parso\python =========> grammar39.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2 =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2 =========> NOTICE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2\dist =========> vendor.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2\dist\bundled\stubs\django =========> commit.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2\dist\bundled\stubs\django =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2\dist\bundled\stubs\openpyxl =========> commit.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2\dist\bundled\stubs\sqlalchemy =========> commit.txt
+C:\Users\Fox\.vscode\extensions\ms-python.vscode-pylance-2021.6.2\dist\typeshed-fallback =========> commit.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372 =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372 =========> requirements.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372 =========> ThirdPartyNotices-Distribution.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372 =========> ThirdPartyNotices-Repository.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\ipywidgetsKernel =========> ipywidgetsKernel.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\ipywidgetsKernel =========> require.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> commons.initial.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> ipywidgets.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> require.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> vendors~dataresource.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> vendors~geojson.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> vendors~nteract_transforms.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> vendors~plotly.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook =========> vendors~vega.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\notebook\node_modules\font-awesome =========> HELP-US-OUT.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\viewers =========> commons.initial.bundle.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\datascience-ui\viewers =========> require.js.LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ms-vscode-remote.remote-wsl-0.56.5 =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1 =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1\node_modules\bcryptjs\tests =========> quickbrown.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1\node_modules\fsevents\node_modules\mkdirp\bin =========> usage.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1\node_modules\fsevents\node_modules\needle =========> license.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1\node_modules\fsevents\node_modules\set-blocking =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1\node_modules\fsevents\node_modules\signal-exit =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1\node_modules\signal-exit =========> LICENSE.txt
+C:\Users\Fox\.vscode\extensions\ritwickdey.liveserver-5.6.1\node_modules\vsls =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Battle.net\WidevineCdm\4.10.1582.2 =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Battle.net\WidevineCdm\4.10.2209.1 =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Blizzard Entertainment\System Survey =========> log.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.1.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.2.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.3.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.4.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.5.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.6.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.7.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.8.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.9.txt
+C:\Users\Fox\AppData\Local\Docker =========> install-log.txt
+C:\Users\Fox\AppData\Local\Docker =========> log.20.txt
+C:\Users\Fox\AppData\Local\Docker =========> log.21.txt
+C:\Users\Fox\AppData\Local\Docker =========> log.22.txt
+C:\Users\Fox\AppData\Local\Docker =========> log.23.txt
+C:\Users\Fox\AppData\Local\Docker =========> log.24.txt
+C:\Users\Fox\AppData\Local\Docker =========> log.txt
+C:\Users\Fox\AppData\Local\Epic Games\EOSOverlay\BrowserCache\Service Worker\CacheStorage\276feb67686940089acdfd84a8d5d49c5f76a803 =========> index.txt
+C:\Users\Fox\AppData\Local\EpicGamesLauncher\Saved\webcache\Service Worker\CacheStorage\e60030e2e5440743857a39cacd108634434c91f1 =========> index.txt
+C:\Users\Fox\AppData\Local\EpicGamesLauncher\Saved\webcache_4147\Service Worker\CacheStorage\977872fd92e6439650ee50a82d5af3a36bdc6099 =========> index.txt
+C:\Users\Fox\AppData\Local\EpicGamesLauncher\Saved\webcache_4147\Service Worker\CacheStorage\9c537c3d2cd9546c71eb7be422001db5a8f9f0be =========> index.txt
+C:\Users\Fox\AppData\Local\EpicGamesLauncher\Saved\webcache_4147\Service Worker\CacheStorage\e60030e2e5440743857a39cacd108634434c91f1 =========> index.txt
+C:\Users\Fox\AppData\Local\Google\Color Efex Pro 4 =========> Color Efex Pro 4_log.txt
+C:\Users\Fox\AppData\Local\Google\Silver Efex Pro 2 =========> silver_efex_pro_2_log.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\log\threadDumps-freeze-20210421-200058-PC-202.7660.27-RandomAccessFile.readBytes-6sec =========> threadDump-20210421-200058.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\log\threadDumps-freeze-20210421-200118-PC-202.7660.27-RandomAccessFile.readBytes-7sec =========> threadDump-20210421-200118.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\log\threadDumps-freeze-20210421-200127-PC-202.7660.27-RandomAccessFile.readBytes-6sec =========> threadDump-20210421-200127.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\log\threadDumps-freeze-20210422-200248-PC-202.7660.27-ZipFile.getEntry-7sec =========> threadDump-20210422-200249.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\log\threadDumps-freeze-20210422-200323-PC-202.7660.27-ZipFile.getEntry-5sec =========> threadDump-20210422-200323.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\log\threadDumps-freeze-20210423-123024-PC-202.7660.27-ZipFile.getEntry-5sec =========> threadDump-20210423-123024.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\tmp\patch-update\jre\conf\security\policy =========> README.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2020.2\tmp\patch-update\jre\lib\server =========> Xusage.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210916-120219-PC-211.7142.13-6sec =========> threadDump-20210916-120219.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210916-234007-PC-211.7142.13-5sec =========> threadDump-20210916-234007.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210921-000022-PC-211.7142.13-9sec =========> threadDump-20210921-000022.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210921-000043-PC-211.7142.13-14sec =========> threadDump-20210921-000043.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210921-000043-PC-211.7142.13-14sec =========> threadDump-20210921-000048.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210921-000107-PC-211.7142.13-5sec =========> threadDump-20210921-000107.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210921-000139-PC-211.7142.13-8sec =========> threadDump-20210921-000139.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210925-112854-PC-211.7142.13-8sec =========> threadDump-20210925-112854.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210925-112905-PC-211.7142.13-7sec =========> threadDump-20210925-112905.txt
+C:\Users\Fox\AppData\Local\JetBrains\PyCharmCE2021.1\log\threadDumps-freeze-20210925-112954-PC-211.7142.13-6sec =========> threadDump-20210925-112954.txt
+C:\Users\Fox\AppData\Local\Microsoft\Edge\User Data =========> edge_shutdown_ms.txt
+C:\Users\Fox\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb =========> index.txt
+C:\Users\Fox\AppData\Local\Microsoft\Edge\User Data\Subresource Filter\Unindexed Rules\9.18.0 =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Microsoft\Internet Explorer =========> brndlog.txt
+C:\Users\Fox\AppData\Local\Microsoft\Office\SolutionPackages\185228009a0868833bebdc9fead342f1\PackageResources =========> subcenter.win32.bundle.LICENSE.txt
+C:\Users\Fox\AppData\Local\Microsoft\Office\SolutionPackages\8a72b28146f9c68feb8b36bab4e75263\PackageResources =========> cardview.win32.bundle.LICENSE.txt
+C:\Users\Fox\AppData\Local\Microsoft\Office\SolutionPackages\8a72b28146f9c68feb8b36bab4e75263\PackageResources =========> cardview.win32.bundle.tpn.txt
+C:\Users\Fox\AppData\Local\Microsoft\Office\SolutionPackages\a44277c404522da1df3becc67873ece\PackageResources =========> index.win32.bundle.tpn.txt
+C:\Users\Fox\AppData\Local\Microsoft\Office\SolutionPackages\b81283b087ec0226423a6f2364ce67cb\PackageResources\dist =========> main.min.js.LICENSE.txt
+C:\Users\Fox\AppData\Local\Microsoft\OneDrive\21.170.0822.0002 =========> ThirdPartyNotices.txt
+C:\Users\Fox\AppData\Local\Microsoft\OneDrive\logs\Common =========> telemetry-dll-ramp-value.txt
+C:\Users\Fox\AppData\Local\Microsoft\OneDrive\logs\Personal =========> telemetry-dll-ramp-value.txt
+C:\Users\Fox\AppData\Local\Microsoft\Teams\current =========> ThirdPartyNotice.txt
+C:\Users\Fox\AppData\Local\Microsoft\Teams\current\resources =========> ThirdPartyNotice.txt
+C:\Users\Fox\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources =========> ThirdPartyNotice.txt
+C:\Users\Fox\AppData\Local\Microsoft\TeamsMeetingAddin =========> meeting-addin-install-logs.txt
+C:\Users\Fox\AppData\Local\Microsoft\TeamsPresenceAddin =========> presence-addin-install-logs.txt
+C:\Users\Fox\AppData\Local\MK11 =========> ShaderHashList.txt
+C:\Users\Fox\AppData\Local\Origin\EALink =========> EALink_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> Bootstrapper_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> Client_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy64_DX10_16004_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy64_DX11_15732_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy64_DX12_11900_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy64_DX9_14760_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy_DX10_15944_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy_DX11_10396_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy_DX12_15416_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy_DX8_9376_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGOProxy_DX9_15260_Log.txt
+C:\Users\Fox\AppData\Local\Origin\Logs =========> IGO_Log.Origin_4860.txt
+C:\Users\Fox\AppData\Local\Origin\Origin\QtWebEngine\Default\Service Worker\CacheStorage\c588a44589f587eae21a269f7faf460318ef682f =========> index.txt
+C:\Users\Fox\AppData\Local\Origin\ThinSetup =========> ThinSetupElevated_Log.txt
+C:\Users\Fox\AppData\Local\Origin\ThinSetup =========> ThinSetup_Log.txt
+C:\Users\Fox\AppData\Local\Origin\ThinSetup\10.5.84.43868 =========> ThinSetupWrapper_Log.txt
+C:\Users\Fox\AppData\Local\osu!\Localisation =========> tr.txt
+C:\Users\Fox\AppData\Local\Overwolf\Extensions\ekhcackbfanheaceicpfmhmmeojplojfgkmfnpjo\2.3.1\resources\fonts\Roboto =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Overwolf\Extensions\ekhcackbfanheaceicpfmhmmeojplojfgkmfnpjo\2.3.36\resources\fonts\Roboto =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Overwolf\Extensions\ppagiehdogdjlomggmoejfamedbjggdggnjbilhe\1.170.10 =========> CSBlacklist.txt
+C:\Users\Fox\AppData\Local\Overwolf\Extensions\ppagiehdogdjlomggmoejfamedbjggdggnjbilhe\1.177.5 =========> CSBlacklist.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> OverwolfPerf.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-15_20-01-13-p6752.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-16_11-15-18-p5692.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-16_19-56-42-p12096.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-17_12-36-27-p10428.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-18_11-28-47-p10120.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-19_15-10-38-p12804.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-19_19-13-48-p11056.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-20_12-18-42-p12116.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-20_20-06-03-p4712.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-04-21_19-39-01-p10132.txt
+C:\Users\Fox\AppData\Local\Overwolf\Log =========> ow_obs_2021-09-06_16-34-42-p6308.txt
+C:\Users\Fox\AppData\Local\Overwolf\temp =========> DxDiagOutput.txt
+C:\Users\Fox\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\Roaming\WhatsApp =========> voip_crash_log.txt
+C:\Users\Fox\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\Roaming\WhatsApp\Service Worker\CacheStorage\3e8ad32ef6e0ff2c8dfb0722a7a862f0a1038fb3 =========> index.txt
+C:\Users\Fox\AppData\Local\Packages\5391RollerNiGi.RainbowSixGuidebook_e4sm6y9netg28\LocalState =========> adDevId.txt
+C:\Users\Fox\AppData\Local\Packages\5391RollerNiGi.RainbowSixGuidebook_e4sm6y9netg28\LocalState =========> MicrosoftStoreEngagementSDKId.txt
+C:\Users\Fox\AppData\Local\Packages\5391RollerNiGi.RainbowSixGuidebook_e4sm6y9netg28\LocalState =========> UserAgent.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState =========> igpoffline.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState =========> OLU_NOTIFICATION_STATUS.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState =========> SocialMicrosoftGraphFile.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState =========> userProfileA.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState =========> userProfileG.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD42CARPACKIGNITION_811420405f300b6e802e0_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD42CARPACKLUXURY_10244360415f300bae9c80a_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD42CARPACKMOTORMASTER_19356749235f300be8993b8_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD44BOOSTERSBUNDLES30DAYS_14546432715fc8e89d2a094_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD44BOOSTERSBUNDLES3DAYS_11189063205fc8e75d3bdce_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD44GAUNTLETBUNDLECHAMPION_8090393665fb3c16d7d630_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD44GAUNTLETBUNDLEPRO_16800107885fb3c014d497d_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD44GAUNTLETBUNDLE_496844905f8d859e0bd8c_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD45STARTERBUNDLELUCRAL148_4401504675ff456b398dd4_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD47CHALLENGERLEAGUECARPACK2_481177043606ee705d15a2_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD48BENTLEYCONTINENTALGT3BUNDLE_56801759960f7e95218863_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD48CONVERSIONOFFERSKOENIGSEGGAGERARS_19149154826113838a0456f_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD48RAREPROKITSBUNDLEADDITIONAL_2770952861012b4165def_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD48RIMACCTWOBUNDLE_2019527060e575d374b2d_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD48SRT2013DODGECHALLENGERSRT8DODGETOMAHAWKBUNDLE_87522515560eee733b5b97_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_A8UPD48VIPREWARDSABTESTTEST2_171422804960dc299bf2da7_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALBUNDLE1C1_17861212161027316eb097_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALBUNDLE1_6196250506054a69eb9c32_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALBUNDLE2_14024272726054a6e47b6e9_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALBUNDLE3_18057608836054a735639dc_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALBUNDLE4_10304338276054a9609deb6_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALBUNDLE5_8690407856054a9b9e5f21_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALBUNDLE6_17354246996054aa1172ac2_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALDAILYBUNDLEV2_131704517561014fb50dc8b_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALSTARTBUNDLE1C1_5128598316103aa0e65617_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALSTARTBUNDLE2C1_15529170776103aac893d8f_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_DIG_ITALDESIGNDAVINCIFESTIVALSTARTBUNDLE3V2_11685525061015047de76b_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_IG_A8900KSUBS_4567930561151ec5de2bd_EN_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_IG_A8950KSUBS_22819418761151f4ca0171_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_IG_A8UPD48MEGASTARTERBUNDLE1_20546524246103df7ebbaca_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_IG_SUBSCRIPTIONDISCOUNT50OFF_242498289605a01bda81ae_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\GAMELOFTSA.Asphalt8Airborne_0pp20fcewvvtj\LocalState\popup_lib_wd\PPMT_A8_IG_UPD38FUSIONCOINSPASS_5932166305e259de16a905_TR_LANDSCAPE =========> etag.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_13_23_26_17_3659.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_13_23_41_00_8155.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_13_23_56_17_3472.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_14_00_26_17_3982.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_15_00_12_31_2609.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_17_00_00_01_1749.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_17_23_48_51_8910.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_19_00_14_49_6855.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_20_00_00_01_1733.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_20_23_46_11_7661.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.DiscoveryNotificationTask11_21_23_34_07_9455.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.PostInstallationTask04_20_00_44_00_8584.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.PostInstallationTask04_20_13_47_20_0953.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.PostInstallationTask06_04_20_27_14_8354.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.PostInstallationTask06_26_16_37_56_5105.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.PostInstallationTask10_22_23_43_24_3069.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.PostInstallationTask10_24_22_40_04_2572.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> OneConnect.PostInstallationTask11_14_00_06_18_4243.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState =========> LogSettings.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir =========> SkypeApp0.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir =========> SkypeBridge0.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{b89c64c2-fd41-4d2b-8ac5-97ae54b7d07f} =========> 0.0.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{b89c64c2-fd41-4d2b-8ac5-97ae54b7d07f} =========> 0.1.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{b89c64c2-fd41-4d2b-8ac5-97ae54b7d07f} =========> 0.2.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{d11b46ec-2a6f-4541-bea6-931b0adf2935} =========> 0.0.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{d11b46ec-2a6f-4541-bea6-931b0adf2935} =========> 0.1.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{d11b46ec-2a6f-4541-bea6-931b0adf2935} =========> 0.2.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{ef0a1c87-6cbe-43a0-9ce1-47730a819ef9} =========> 0.0.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{ef0a1c87-6cbe-43a0-9ce1-47730a819ef9} =========> 0.1.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{ef0a1c87-6cbe-43a0-9ce1-47730a819ef9} =========> 0.2.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{b91c3942-7538-4aa5-b293-22e9611a7aa4} =========> appsconversions.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{b91c3942-7538-4aa5-b293-22e9611a7aa4} =========> appsglobals.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{b91c3942-7538-4aa5-b293-22e9611a7aa4} =========> appssynonyms.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{b91c3942-7538-4aa5-b293-22e9611a7aa4} =========> settingsconversions.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{b91c3942-7538-4aa5-b293-22e9611a7aa4} =========> settingsglobals.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{b91c3942-7538-4aa5-b293-22e9611a7aa4} =========> settingssynonyms.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{3949fba8-909a-4626-9489-f61fec5a4bb9} =========> 0.0.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{3949fba8-909a-4626-9489-f61fec5a4bb9} =========> 0.1.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{3949fba8-909a-4626-9489-f61fec5a4bb9} =========> 0.2.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{f73436be-b9bc-4053-8f23-3a8fc857a095} =========> 0.0.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{f73436be-b9bc-4053-8f23-3a8fc857a095} =========> 0.1.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{f73436be-b9bc-4053-8f23-3a8fc857a095} =========> 0.2.filtertrie.intermediate.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache =========> AppCache132770316424701416.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache =========> AppCache132770316604793709.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache =========> AppCache132770319656590736.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache =========> AppCache132770322658221259.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache =========> SettingsCache.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGameOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> LogFile_April_20_2020__1_15_19.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGameOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> LogFile_June_6_2020__12_40_40.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> XboxGamingOverlayTraces_20210924181737.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> XboxGamingOverlayTraces_20210924200606.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> XboxGamingOverlayTraces_20210925082333.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> XboxGamingOverlayTraces_FT_Server_20210924181739.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> XboxGamingOverlayTraces_FT_Server_20210924200608.txt
+C:\Users\Fox\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir =========> XboxGamingOverlayTraces_FT_Server_20210925082335.txt
+C:\Users\Fox\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\Spotify\Browser\Service Worker\CacheStorage\e9e20933b78806f5d80c7a741788760ea29d6bc7 =========> index.txt
+C:\Users\Fox\AppData\Local\Packages\WinZipComputing.WinZipUniversal_3ykzqggjzj4z0\LocalState =========> MicrosoftStoreEngagementSDKId.txt
+C:\Users\Fox\AppData\Local\PDF Annotator =========> versions.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app =========> ThirdPartyNotices.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode-remote.remote-wsl-recommender =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.js-debug =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.js-debug-companion =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.js-debug-companion\out =========> extension.js.LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug =========> ThirdPartyNotices.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2 =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2 =========> ThirdPartyNotices.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\mkdirp\bin =========> usage.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-chrome-debug-core =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-chrome-debug-core =========> ThirdPartyNotices.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-debugadapter =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-debugadapter =========> thirdpartynotices.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-debugadapter\node_modules\vscode-debugprotocol =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-debugprotocol =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-nls =========> License.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.node-debug2\node_modules\vscode-nls =========> ThirdPartyNotices.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\ms-vscode.references-view =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\theme-seti =========> ThirdPartyNotices.txt
+C:\Users\Fox\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\typescript-language-features\node_modules\typescript-vscode-sh-plugin =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Opera GX\71.0.3770.310\resources =========> eula_desktop_eea.txt
+C:\Users\Fox\AppData\Local\Programs\Opera GX\71.0.3770.310\resources =========> eula_desktop_row.txt
+C:\Users\Fox\AppData\Local\Programs\Opera GX\71.0.3770.323\resources =========> eula_desktop_eea.txt
+C:\Users\Fox\AppData\Local\Programs\Opera GX\71.0.3770.323\resources =========> eula_desktop_row.txt
+C:\Users\Fox\AppData\Local\Programs\Paradox Interactive =========> ThirdPartyLicenses.txt
+C:\Users\Fox\AppData\Local\Programs\Paradox Interactive\launcher-v2.2020.11 =========> LICENSE.electron.txt
+C:\Users\Fox\AppData\Local\Programs\Paradox Interactive\launcher-v2.2020.11 =========> ThirdPartyLicenses.txt
+C:\Users\Fox\AppData\Local\Programs\Paradox Interactive\launcher-v2.2020.4 =========> LICENSE.electron.txt
+C:\Users\Fox\AppData\Local\Programs\Paradox Interactive\launcher-v2.2020.4 =========> ThirdPartyLicenses.txt
+C:\Users\Fox\AppData\Local\Programs\pi-network-desktop =========> LICENSE.electron.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39 =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39 =========> NEWS.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib =========> CREDITS.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib =========> extend.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib =========> HISTORY.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib =========> NEWS.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib =========> NEWS2x.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib =========> README.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib =========> TODO.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib\Icons =========> README.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\idlelib\idle_test =========> README.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\lib2to3 =========> Grammar.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\lib2to3 =========> PatternGrammar.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages =========> README.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\aiohttp-3.7.4.post0.dist-info =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\aiohttp-3.7.4.post0.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\async_timeout-3.0.1.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\attrs-21.2.0.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\chardet-4.0.0.dist-info =========> entry_points.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\chardet-4.0.0.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\discord.py-1.7.3.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\idna-3.2.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\multidict-5.1.0.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip\_vendor =========> vendor.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip-21.2.4.dist-info =========> entry_points.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip-21.2.4.dist-info =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip-21.2.4.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools-56.0.0.dist-info =========> dependency_links.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools-56.0.0.dist-info =========> entry_points.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools-56.0.0.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\typing_extensions-3.10.0.0.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\site-packages\yarl-1.6.3.dist-info =========> top_level.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> cmath_testcases.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> exception_hierarchy.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> floating_points.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> formatfloat_testcases.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> ieee754.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> mailcap.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> math_testcases.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> test_doctest.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> test_doctest2.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> test_doctest3.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> test_doctest4.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> tokenize_tests-latin1-coding-cookie-and-utf8-bom-sig.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> tokenize_tests-no-coding-cookie-and-utf8-bom-sig-only.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> tokenize_tests-utf8-coding-cookie-and-no-utf8-bom-sig.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> tokenize_tests-utf8-coding-cookie-and-utf8-bom-sig.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test =========> tokenize_tests.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> big5-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> big5.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> big5hkscs-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> big5hkscs.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> cp949-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> cp949.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> euc_jisx0213-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> euc_jisx0213.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> euc_jp-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> euc_jp.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> euc_kr-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> euc_kr.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> gb18030-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> gb18030.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> gb2312-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> gb2312.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> gbk-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> gbk.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> hz-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> hz.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> iso2022_jp-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> iso2022_jp.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> iso2022_kr-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> iso2022_kr.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> johab-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> johab.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> shift_jis-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> shift_jis.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> shift_jisx0213-utf8.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\cjkencodings =========> shift_jisx0213.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\leakers =========> README.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_01.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_02.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_03.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_04.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_05.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_06.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_07.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_08.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_09.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_10.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_11.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_12.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_12a.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_13.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_14.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_15.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_16.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_17.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_18.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_19.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_20.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_21.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_22.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_23.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_24.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_25.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_26.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_27.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_28.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_29.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_30.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_31.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_32.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_33.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_34.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_35.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_36.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_37.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_38.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_39.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_40.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_41.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_42.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_43.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_44.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_45.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_email\data =========> msg_46.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_importlib\data02\one =========> resource1.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_importlib\data02\two =========> resource2.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\test_importlib\data03\namespace =========> resource1.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Lib\test\xmltestdata\c14n-20 =========> world.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\tcl\tix8.4.3\pref =========> WmDefault.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Tools\pynche =========> html40colors.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Tools\pynche =========> namedcolors.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Tools\pynche =========> webcolors.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Tools\pynche =========> websafe.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Tools\pynche\X =========> rgb.txt
+C:\Users\Fox\AppData\Local\Programs\Python\Python39\Tools\pynche\X =========> xlicense.txt
+C:\Users\Fox\AppData\Local\Programs\signal-desktop =========> LICENSE.electron.txt
+C:\Users\Fox\AppData\Local\Programs\signal-desktop\resources\app.asar.unpacked\node_modules\sharp\node_modules\mkdirp\bin =========> usage.txt
+C:\Users\Fox\AppData\Local\Rockstar Games\Launcher =========> dxdiag.txt
+C:\Users\Fox\AppData\Local\Steam\htmlcache\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88 =========> index.txt
+C:\Users\Fox\AppData\Local\Steam\htmlcache\Service Worker\CacheStorage\8f7abdeb3486c1b8780fede76afc20e044eff1b5 =========> index.txt
+C:\Users\Fox\AppData\Local\Steam\widevine\win-ia32 =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Steam\widevine\win-x64 =========> LICENSE.txt
+C:\Users\Fox\AppData\Local\Windscribe\Windscribe =========> log.txt
+C:\Users\Fox\AppData\Local\Windscribe\Windscribe =========> ping_log.txt
+C:\Users\Fox\AppData\Local\Windscribe\Windscribe =========> prev_log.txt
+C:\Users\Fox\AppData\LocalLow\Adobe\Acrobat\DC\Reader\Synchronizer =========> AdobeCollabSync.exe-log.txt
+C:\Users\Fox\AppData\LocalLow\Halfbus\Basement =========> output_log.txt
+C:\Users\Fox\AppData\LocalLow\IronGate\Valheim =========> adminlist.txt
+C:\Users\Fox\AppData\LocalLow\IronGate\Valheim =========> bannedlist.txt
+C:\Users\Fox\AppData\LocalLow\IronGate\Valheim =========> permittedlist.txt
+C:\Users\Fox\AppData\Roaming\.minecraft =========> options.txt
+C:\Users\Fox\AppData\Roaming\.minecraft =========> optionsof.txt
+C:\Users\Fox\AppData\Roaming\.minecraft =========> optionsshaders.txt
+C:\Users\Fox\AppData\Roaming\.minecraft\logs\tlauncher =========> dxdiag.txt
+C:\Users\Fox\AppData\Roaming\.minecraft\runtime\java-runtime-alpha\wındows\java-runtime-alpha\conf\security\policy =========> README.txt
+C:\Users\Fox\AppData\Roaming\.minecraft\runtime\jre-legacy\wındows\jre-legacy =========> README.txt
+C:\Users\Fox\AppData\Roaming\.minecraft\runtime\jre-legacy\wındows\jre-legacy =========> THIRDPARTYLICENSEREADME-JAVAFX.txt
+C:\Users\Fox\AppData\Roaming\.minecraft\runtime\jre-legacy\wındows\jre-legacy =========> THIRDPARTYLICENSEREADME.txt
+C:\Users\Fox\AppData\Roaming\.minecraft\runtime\jre-legacy\wındows\jre-legacy\bin\server =========> Xusage.txt
+C:\Users\Fox\AppData\Roaming\.minecraft\runtime\jre-legacy\wındows\jre-legacy\lib =========> jvm.hprof.txt
+C:\Users\Fox\AppData\Roaming\.tlauncher =========> protection.txt
+C:\Users\Fox\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281 =========> README.txt
+C:\Users\Fox\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281 =========> THIRDPARTYLICENSEREADME-JAVAFX.txt
+C:\Users\Fox\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281 =========> THIRDPARTYLICENSEREADME.txt
+C:\Users\Fox\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\server =========> Xusage.txt
+C:\Users\Fox\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\lib =========> jvm.hprof.txt
+C:\Users\Fox\AppData\Roaming\2K Sports\NBA 2K21 =========> VideoSettingsHelp.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Adobe Photoshop 2021\Logs\Generator =========> generator_1.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Adobe Photoshop 2021\Logs\Generator =========> generator_2.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Adobe Photoshop 2021\Logs\Generator =========> generator_3.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Adobe Photoshop 2021\Logs\Generator =========> generator_4.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Adobe Photoshop 2021\Logs\Generator =========> generator_latest.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Common\Motion Graphics Templates =========> PrMogrtInstall13-0-0.txt
+C:\Users\Fox\AppData\Roaming\Adobe\dynamiclinkmediaserver\6.0.0 =========> Debug Database.txt
+C:\Users\Fox\AppData\Roaming\Adobe\dynamiclinkmediaserver\6.0.0 =========> Trace Database.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Photoshop\14.0 =========> Debug Database.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Photoshop\14.0 =========> Trace Database.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Team Projects Local Hub\2.0 =========> Debug Database.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Team Projects Local Hub\2.0 =========> Trace Database.txt
+C:\Users\Fox\AppData\Roaming\Adobe\Team Projects Local Hub\2.0\logs =========> Team Projects Local Hub 20210317-015548_918306.txt
+C:\Users\Fox\AppData\Roaming\Apple Computer\Logs\CrashReporter\MobileDevice\The Fox =========> ota_patch.txt
+C:\Users\Fox\AppData\Roaming\Apple Computer\Logs\CrashReporter\MobileDevice\Ömer iPhone'u =========> ota_patch.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\remote\settings =========> account_name.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\remote\settings =========> language.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\remote\settings =========> listen_port.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\remote\settings =========> user_steam_id.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\steam_settings =========> disable_overlay.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\steam_settings =========> dlc.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\steam_settings =========> steam_appid.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\steam_settings\controller =========> gamepadsetting.txt
+C:\Users\Fox\AppData\Roaming\EMPRESS\976310\steam_settings\controller =========> menucontrols.txt
+C:\Users\Fox\AppData\Roaming\Microsoft\Teams =========> installTime.txt
+C:\Users\Fox\AppData\Roaming\Microsoft\Teams =========> logs.txt
+C:\Users\Fox\AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine =========> ConsoleHost_history.txt
+C:\Users\Fox\AppData\Roaming\NCH Software\Voxal\Logs =========> 2021-05-01 Voxal Voice Changer Log.txt
+C:\Users\Fox\AppData\Roaming\NCH Software\Voxal\Logs =========> 2021-05-08 Voxal Voice Changer Log.txt
+C:\Users\Fox\AppData\Roaming\obs-studio\logs =========> 2021-03-26 22-59-26.txt
+C:\Users\Fox\AppData\Roaming\obs-studio\logs =========> 2021-03-26 23-15-30.txt
+C:\Users\Fox\AppData\Roaming\obs-studio\logs =========> 2021-03-26 23-19-12.txt
+C:\Users\Fox\AppData\Roaming\obs-studio\logs =========> 2021-04-13 18-13-17.txt
+C:\Users\Fox\AppData\Roaming\obs-studio\logs =========> 2021-05-15 17-24-12.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera GX Stable =========> opera_shutdown_ms.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera GX Stable\Service Worker\CacheStorage\d0051c4f42a9010f1dfcd23cdbedf19b93c24219 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera GX Stable\Subresource Filter\Unindexed Rules\9.12.0 =========> LICENSE.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable =========> crash_count.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Extensions\oocalimimngaihdkbihfgmpkcpnmlaoa\3.1.4_0\lib =========> jquery.js.LICENSE.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Extensions\oocalimimngaihdkbihfgmpkcpnmlaoa\3.1.4_0\web =========> version.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\08a8bd23476596580e9b4d537c8358f2965ee541 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\0ba63bb6379499186825cc0b340b96fc86c16276 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\0e2bc3de80cdc9b4faadba114362c7d3964dee15 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\0f1501888eab6f7ac12c7e2f1c26fd51a8f17a6f =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\114ee1c65edcb638b196f83561e95da22c8eed5a =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\1178f2193f7e4cca94890d8016bd374fee5e469f =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\12a41481464569433da13987c1785a286c7eb62f =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\1478d803d9369abcc1b8a1b81151fe713cef35bb =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\1c7813dc8ec57ba14b1e202449935dac4f5224de =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\1dc21fdbf32cd3689789d4a6d42fc2555515f11a =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\227e149e8125258c7b1b9960f35f4e1e4a4bae17 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\229430ef99f0b97ad78ffa9f0522a333f76a6af3 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\2348e52d6de9218df880d9a88ad6a5d8c2c9555c =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\28da5c8ea819a8c3e61ff68c9f3cbe19d927d0ad =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\28da9c56fde4021055a681112c092453f74d8dd8 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\2c1f78ebc260f2b7fc89970309d7a143bcb8273e =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\2c55c14c7cd70a7cf347162de08402c268f05069 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\2dd099a0a92683fe61506096bb4aa4999840d299 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\3049f8ebeff1a330c60a156ce798748d84b49556 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\320f5cdac62fac6010ec20d13e5c28e084d29e65 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\3aaab3754163687637b58454d5c39b3b428004b2 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\42617d1ccf08f3e31a6f343e65155fb66a210093 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\426cb7786b15b814de33d4475ab196fbeca8f00a =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\4717a08f00747d72148a0b1a0953a89aeb4c6261 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\4858f455b4ad3e0955a7d853a1e7ef30b7332de7 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\48a805fde3d09b1ef9cd3f80c9789ea3b870c830 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\4be4009864b853069edb2aa545429f7219528d45 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\4c237d5e33167c88df3e45d9c8b59fdd4d727472 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\4cc699dd486af2551d01b1a74abd5337c6e052e5 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\5298998a9ea42a50d07203385a25610bf102add3 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\56115d637504abec4f37cc462f00159a1fbfdf03 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\5a6f7e336992bc24678958dc2f1f9b9eec83593b =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\5ce50966647b163092d864b9f37d981f5bccd871 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\5d6909b67b63c24a2e0252f5187fb81c513d995f =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\5feca078add841f499f659e3e3af3a06bd76c76d =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\64cc0f79e2271dc19af67dba8e276f1df581370d =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\67752b854e4f39e9e528b2597b27a04d1b91e18e =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\6849efceb6d9f457f7b6ec8a9b6a17b0426e2f14 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\699961cb470b51da13745d6fc6c683294a67f55d =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\70d11909b44738bb9eeb5e9986636c65ec6f2e3e =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\7225a148f6d2772aac1590c8f5f05b7d778f73d8 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\76ef9e5953a1ba4578548bb32235240a9f0e0ca2 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\78520be5504cd9642f6b35408ff38314f2041e02 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\7cc2d8afa0bcee013efd53c7b294b51df0f8b69a =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\7e8d481e0757219cdee9db202a3020cae18722d2 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\819bad01b0e5ca86661ede0ce84f37b6d373d480 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\848b61f7aebb39a5b7f285b0a3714eb9560388cf =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\891464d21f6c7fe71fbbba49ce73fe521e864679 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\892c634f75bfdab0d2aa11e98d5a89224ce78658 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\89ad2153a48916572387176d8f66f7ec6f78ff90 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\89e92bacd1eddcf0d4d946575dbd96798a705865 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\8d987122c6c22a45acf9889171b20deb05fb6e12 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\8e8b9b7fae065f729b6dd0fed1df8e6484ed69d8 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\8f7abdeb3486c1b8780fede76afc20e044eff1b5 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\91d0b2b6ec7fea51938c94c5a779f47697918703 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\93bfb2695873d29aef924b96d36915b34b91b004 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\97138fc08b55e60dfe2dc1f35b9c86368420f096 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\9992461eb56228acb3e9eb8fb6f821d3c1127962 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\a3f190d8990c9f7435447f9aa05680c64c29af75 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\b1521bc82f29f5a980840741368b34d681d80029 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\b442ccf24ba767cf7f56377dc10eb51d72883ed5 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\b4bc9b87e42b56c1df74bdf25b1de267828d1f0b =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\b50f919a992a5e38202221a82387474d16a13620 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\b6b578697c2a047a55e590c653c5b2e3595a35b4 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\b79a6266a72c452df25cc1f0c0aeff7eeafd03a6 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\b81ef77cc01854286b3de831c68ebfda9ad0ffac =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\bc266fa41530e589d1837d357900ba36c06daddb =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\bcb2bf979ef81f5338404806df0f958b63b5d038 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\bdc054daceac9545d791e94941e5c0f3f05843af =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\beee774104aaca3fa053daa69d43b0820889edfd =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\c03035750bb78718ecae3de22487a8433cf8bda7 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\c88326c16da025a4095d66138d90a725ead722eb =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\cd33c25ac0f8c41e74d879a4e487dc21992ea0e4 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\cf755f61b7cf9c4e294d323ea22ee1dbe33978f5 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\d76a06c2a99ea7df6a9ddf103e8d7a34131bf4b7 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\dd54405df2fcf404258470e0441ec38db14bfedc =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\e60030e2e5440743857a39cacd108634434c91f1 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\e7461567fbe2e5aa27c965ee88c80d182d2815d3 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\e814b3ecd96f8e993e6cda69c25f410fbe27494c =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\ec933aa67aee2a2711e040f9c007c60971dc2ad0 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\f55cab0d1824dc7c24e45e34bfba0b41c957dae1 =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Service Worker\CacheStorage\fd50208b4d1f56e8f34da916172bbc62d2a2fe5d =========> index.txt
+C:\Users\Fox\AppData\Roaming\Opera Software\Opera Stable\Subresource Filter\Unindexed Rules\9.22.0 =========> LICENSE.txt
+C:\Users\Fox\AppData\Roaming\StardewValley\DisconnectLogs =========> Ömer_6-30.txt
+C:\Users\Fox\AppData\Roaming\StardewValley\ErrorLogs =========> _277747775_0.txt
+C:\Users\Fox\AppData\Roaming\StardewValley\ErrorLogs =========> _286291268_0.txt
+C:\Users\Fox\AppData\Roaming\TeamViewer =========> Connections.txt
+C:\Users\Fox\AppData\Roaming\Telegram Desktop =========> log.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> auth.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> banadd.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> banclient.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> bandel.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> bandelall.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> banlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channeladdperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelclientaddperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelclientdelperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelclientlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelclientpermlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelconnectinfo.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelcreate.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channeldelete.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channeldelperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channeledit.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelgroupadd.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelgroupaddperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelgroupclientlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelgroupdel.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelgroupdelperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelgrouplist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelgrouppermlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channellist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelmove.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelpermlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> channelvariable.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientaddperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientdbdelete.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientdbedit.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientdblist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientdelperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientgetdbidfromuid.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientgetids.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientgetnamefromdbid.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientgetnamefromuid.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientgetuidfromclid.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientkick.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientmove.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientmute.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientnotifyregister.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientnotifyunregister.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientpermlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientpoke.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientunmute.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientupdate.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> clientvariable.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> complainadd.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> complaindel.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> complaindelall.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> complainlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> connect.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> currentschandlerid.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> disconnect.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftcreatedir.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftdeletefile.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftgetfileinfo.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftgetfilelist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftinitdownload.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftinitupload.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftrenamefile.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> ftstop.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> hashpassword.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> help.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> messageadd.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> messagedel.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> messageget.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> messagelist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> messageupdateflag.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> permoverview.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> quit.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> README.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> sendtextmessage.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> serverconnectinfo.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> serverconnectionhandlerlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupadd.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupaddclient.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupaddperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupclientlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupdel.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupdelclient.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupdelperm.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergrouplist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergrouppermlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servergroupsbyclientid.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> servervariable.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> setclientchannelgroup.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> tokenadd.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> tokendelete.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> tokenlist.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> tokenuse.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> use.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> verifychannelpassword.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> verifyserverpassword.txt
+C:\Users\Fox\AppData\Roaming\TS3Client\plugins\clientquery_plugin =========> whoami.txt
+C:\Users\Fox\AppData\Roaming\uTorrent\helper =========> btinstall.txt
+C:\Users\Fox\AppData\Roaming\uTorrent\player =========> btinstall.txt
+C:\Users\Fox\AppData\Roaming\uTorrent\VirusGuard =========> btinstall.txt
+C:\Users\Fox\AppData\Roaming\Zoom =========> appsafecheck.txt
+C:\Users\Fox\AppData\Roaming\Zoom =========> installer.txt
+C:\Users\Fox\AppData\Roaming\Zoom\bin =========> directui_license.txt
+C:\Users\Fox\AppData\Roaming\Zoom\bin =========> duilib_license.txt
+C:\Users\Fox\AppData\Roaming\Zoom\bin =========> nanosvg_LICENSE.txt
+C:\Users\Fox\Desktop =========> flood.txt
+C:\Users\Fox\Desktop =========> takımlar.txt
+C:\Users\Fox\Desktop =========> Yeni Metin Belgesi (2).txt
+C:\Users\Fox\Desktop =========> Yeni Metin Belgesi (3).txt
+C:\Users\Fox\Desktop =========> Yeni Metin Belgesi (4).txt
+C:\Users\Fox\Desktop =========> Yeni Metin Belgesi.txt
+C:\Users\Fox\Desktop\a =========> origin hesapları.txt
+C:\Users\Fox\Desktop\a =========> Yeni Metin Belgesi (2).txt
+C:\Users\Fox\Desktop\a =========> Yeni Metin Belgesi (5).txt
+C:\Users\Fox\Desktop\a =========> Yeni Metin Belgesi (6).txt
+C:\Users\Fox\Desktop\a =========> Yeni Metin Belgesi (8).txt
+C:\Users\Fox\Desktop\a\CHECKER =========> 636524349556235481.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> 6545.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> 65545454.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> 88899.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> PB.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> proxy 2.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> proxy 3.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> proxy.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> ssl.txt
+C:\Users\Fox\Desktop\a\CHECKER =========> ssl1.txt
+C:\Users\Fox\Desktop\a\CHECKER\checker =========> Валидные акаунты31-03-2018 (13_17_21).txt
+C:\Users\Fox\Desktop\a\CHECKER\combos =========> combos.txt
+C:\Users\Fox\Desktop\a\CHECKER\işe yaramaz\BestUplayCheckerv1.0.1 =========> Keywords.txt
+C:\Users\Fox\Desktop\a\CHECKER\KEYWORDS =========> Keywords.txt
+C:\Users\Fox\Desktop\a\CHECKER\KEYWORDS =========> keywordsss.txt
+C:\Users\Fox\Desktop\a\CHECKER\leec =========> ssl.txt
+C:\Users\Fox\Desktop\a\CHECKER\leec =========> Yeni Metin Belgesi.txt
+C:\Users\Fox\Desktop\a\CHECKER\NETFLIX Accounts Checker By X-SLAYER\Results\Result 13-02-18 20-01-31 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\NETFLIX Accounts Checker By X-SLAYER\Results\Result 13-02-18 20-24-28 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\NETFLIX Accounts Checker By X-SLAYER\Results\Result 31-03-18 12-48-04 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\NETFLIX Accounts Checker By X-SLAYER\Results\Result 31-03-18 13-05-57 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\Proxy Grabber =========> 636575828707326667.txt
+C:\Users\Fox\Desktop\a\CHECKER\Proxy Grabber =========> afv.txt
+C:\Users\Fox\Desktop\a\CHECKER\Proxy Grabber =========> Anonymous Proxy Proxy.txt
+C:\Users\Fox\Desktop\a\CHECKER\Proxy Grabber =========> New Proxy Proxy.txt
+C:\Users\Fox\Desktop\a\CHECKER\Proxy Grabber =========> sdfd.txt
+C:\Users\Fox\Desktop\a\CHECKER\Proxy Grabber =========> SSL Proxy Proxy.txt
+C:\Users\Fox\Desktop\a\CHECKER\Proxy Grabber =========> UK Proxy Proxy.txt
+C:\Users\Fox\Desktop\a\CHECKER\SLAYER Leecher v0.5\Keywords & Regex =========> Keywords.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 06-11-17 18-49-07 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 06-11-17 18-49-07 =========> Good.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 13-02-18 20-26-09 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 13-02-18 20-26-09 =========> Good.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 13-02-18 20-26-09 =========> Premium_Hits.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 25-01-18 00-16-04 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 25-03-18 14-18-00 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 31-03-18 13-00-18 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 31-03-18 13-00-18 =========> Good.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 31-03-18 13-10-35 =========> Bad.txt
+C:\Users\Fox\Desktop\a\CHECKER\Spotify Accounts Checker Fixed\Results\Result 31-03-18 13-10-35 =========> Good.txt
+C:\Users\Fox\Desktop\a\CHECKER\Yeni klasör\SLAYER Leecher v0.3 =========> Regex.txt
+C:\Users\Fox\Desktop\a\CHECKER\Yeni klasör\SLAYER Leecher v0.4.1\Keywords & Regex =========> Keywords.txt
+C:\Users\Fox\Desktop\freelance\LOGO TASARIM\bigmuntha =========> a_detay_not.txt
+C:\Users\Fox\Desktop\freelance\LOGO TASARIM\gurutasarim =========> a_paket detayı.txt
+C:\Users\Fox\Desktop\freelance\LOGO TASARIM\ugursinay =========> a_notlar.txt
+C:\Users\Fox\Desktop\MayinTarlasi-main\venv\Lib\site-packages\pip\_vendor =========> vendor.txt
+C:\Users\Fox\Desktop\MayinTarlasi-main\venv\Lib\site-packages\pip-21.1.2.dist-info =========> entry_points.txt
+C:\Users\Fox\Desktop\MayinTarlasi-main\venv\Lib\site-packages\pip-21.1.2.dist-info =========> LICENSE.txt
+C:\Users\Fox\Desktop\MayinTarlasi-main\venv\Lib\site-packages\pip-21.1.2.dist-info =========> top_level.txt
+C:\Users\Fox\Desktop\MayinTarlasi-main\venv\Lib\site-packages\setuptools-57.0.0.dist-info =========> dependency_links.txt
+C:\Users\Fox\Desktop\MayinTarlasi-main\venv\Lib\site-packages\setuptools-57.0.0.dist-info =========> entry_points.txt
+C:\Users\Fox\Desktop\MayinTarlasi-main\venv\Lib\site-packages\setuptools-57.0.0.dist-info =========> top_level.txt
+C:\Users\Fox\Desktop\OYUN\GuzelPizza-Oyunindir.club =========> steam_appid.txt
+C:\Users\Fox\Desktop\python-istihza-master =========> ntp1.txt
+C:\Users\Fox\Desktop\python-istihza-master =========> ntp5.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> basit_bir_iletisim_modeli.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> baytlar_ve_bayt_dizileri.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> bezeyiciler.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> calistirma.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> donguler.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> dosyalarin_metot_ve_nitelikleri.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> etkilesimli_python.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> fonksiyonlar.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> fstring.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> gelistirme_ortami.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> gomulu_fonksiyonlar.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> hata_yakalama.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> ikili_dosyalar.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> ileri_fonksiyonlar.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> index.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> input.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> islecler.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> kacis_dizileri.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> karakter_dizileri.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> karakter_dizilerinin_metotlari1.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> karakter_dizilerinin_metotlari2.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> karakter_dizilerinin_metotlari3.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> karakter_dizilerini_bicimlendirmek.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> karakter_kodlama.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> katkida_bulunanlar.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> kaydetme_ve_calistirma.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> kitap_hakkinda.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> kosul_deyimleri.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> kumeler_ve_dondurulmus_kumeler.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> kurulum.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> listelerin_ve_demetlerin_metotlari.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> listeler_ve_demetler.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> moduller.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> nesne_tabanli_programlama1.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> nesne_tabanli_programlama2.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> nesne_tabanli_programlama3.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> nesne_tabanli_programlama4.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> nesne_tabanli_programlama5.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> nesne_tabanli_programlama6.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> nesne_tabanli_programlama7.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> paketler.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> print.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> python_hakkinda.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> sayilar.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> sayma_sistemleri.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> sozlukler.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> sozluklerin_metotlari.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> temel_dosya_islemleri.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources =========> yorum.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> argparse.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> curses.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> datetime.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> index.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> json.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> math.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> os.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> random.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> regex.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> sched.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> sqlite.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> sys.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> threading.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> time.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\standart_moduller =========> timeit.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller =========> index.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\colorama_modülü =========> index.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\django_modülü =========> django_1.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\django_modülü =========> django_2.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\django_modülü =========> django_3.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\django_modülü =========> django_4.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\django_modülü =========> django_5.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\django_modülü =========> django_6.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\django_modülü =========> index.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> events.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> giris.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> index.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> kurulum.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> layout.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> nedir.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> uygulama1.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> widgets.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\kivy_dersleri =========> widgets2.rst.txt
+C:\Users\Fox\Desktop\python-istihza-master\_sources\Ucuncu_taraf_moduller\pyperclip_modülü =========> index.rst.txt
+C:\Users\Fox\Documents =========> GFWLIVESetupLog.txt
+C:\Users\Fox\Documents =========> GFWLIVESetupLogVerbose.txt
+C:\Users\Fox\Documents =========> testsa.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle =========> version.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-ar-e158ccf8.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-br-40bcc8f5.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-cs-08e36f8e.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-de-5acd94c7.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-en-d41c6ce1.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-es-9b5b964e.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-fr-751c0122.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-it-e918e658.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-jp-d0447da4.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-ko-a64cd41f.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-mx-239b4588.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-pl-9011ec1f.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-ru-eeb84d61.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-tc-20c38a96.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PC-tr-1162c67a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-ar-d23e6be9.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-br-8254622f.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-cz-10dcf052.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-de-5db91fe6.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-en-16fa45b7.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-es-6eeac95c.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-fr-928bd643.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-it-0d3747ea.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-ja-2f18926b.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-ko-8e236800.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-mx-1430f8e3.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-pl-b99d410e.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-ru-c6b56e0d.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-tc-3289d77a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-PS4-tr-375ff060.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-ar-c5b69842.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-br-f63d2687.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-cs-e8558212.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-de-87aa792f.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-en-19b7fd61.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-es-58a02f3a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-fr-65fbf187.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-it-58253880.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-jp-b69421f7.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-ko-45b894c8.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-mx-c16db0b8.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-pl-421c8f85.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-ru-2cc0c661.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-tc-a26a741a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Privacy_Policy-XBOX-tr-ecb70fcd.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-ar-99d3ac63.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-br-bcab0db8.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-cs-b51352dc.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-de-9fef088a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-en-fc85ec7e.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-es-de5f00b2.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-fr-bd3ace93.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-it-16a9da23.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-jp-de6a5a0e.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-ko-5428e67d.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-mx-9bc74e74.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-pl-80950584.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-ru-5c77c7d9.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-tc-267334b9.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PC-tr-f731ec3a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-ar-a24c85bd.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-br-692d98a9.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-cs-041c269d.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-de-2fda6c89.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-en-e6cd1be4.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-es-117b19dd.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-fr-921878e1.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-it-b7c13e4c.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-ja-cebe5dbd.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-ko-fad1f1cf.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-mx-207e473a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-pl-5300e7dd.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-ru-cf76eb3e.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-tc-d3ea9753.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-PS4-tr-f922a86e.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-ar-838e26f3.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-br-742841a0.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-cs-c1e79c5a.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-de-50049396.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-en-e5b14b41.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-es-6fd278b8.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-fr-75e4500d.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-it-19f00637.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-jp-def3fcc7.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-ko-2d0db025.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-mx-d2a1ff28.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-pl-330ae929.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-ru-049703a6.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-tc-47f8cfcf.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> BF1-EA-Terms_of_service-XBOXONE-tr-cbb786c1.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_ARA_SA-9f1bb4e4.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_CHT_CN-23d94b14.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_ENG_US-a9f0a043.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_FRE_FR-650af657.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_ITA_IT-eb9da764.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_JPN_JP-a65900c0.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_POL_PL-be5cd911.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_POR_BR-c2728510.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_RUS_RU-35cfb05f.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_SPA_ES-21991268.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_SPA_MX-c15115f5.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.16.16_TUR_TR-26a86f73.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_Battlefield1_PC_8.30.16_GER_DE-19c12cfd.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_ARA_SA-e1299a03.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_CHT_CN-9801c961.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_CZE_CZ-2f5cf166.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_ENG_US-eee34ba6.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_FRE_FR-6516a345.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_GER_DE-e6a5fea4.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_ITA_IT-3bcc4a1f.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_JPN_JP-963199c0.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_KOR_KR-562d3b5c.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_POL_PL-ab9eea33.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_POR_BR-b17f8208.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_RUS_RU-ef067c66.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_SPA_ES-7cac774b.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_SPA_MX-787efc14.txt
+C:\Users\Fox\Documents\Battlefield 1\twinkle\assets =========> EULA_US_ROW_EU_PS4_XBOX_ONE_4.15.16_TUR_TR-be6c0713.txt
+C:\Users\Fox\Documents\BioshockHD\BioShock =========> DeveloperFilms.txt
+C:\Users\Fox\Documents\Heroes of the Storm =========> Variables.txt
+C:\Users\Fox\Documents\Heroes of the Storm\Accounts\417804852 =========> Variables.txt
+C:\Users\Fox\Documents\Heroes of the Storm\GameLogs =========> 2016-11-29 10.58.54 Graphics.txt
+C:\Users\Fox\Documents\Heroes of the Storm\GameLogs =========> 2016-11-30 20.41.53 Graphics.txt
+C:\Users\Fox\Documents\Heroes of the Storm\GameLogs =========> 2016-11-30 21.36.42 Graphics.txt
+C:\Users\Fox\Documents\Heroes of the Storm\GameLogs =========> SystemInfo.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether =========> client_chat_log.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether =========> client_log.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2017-02-25-19-13-21.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2017-03-09-11-43-30.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2017-05-05-16-53-47.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2017-05-18-20-33-21.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2017-05-18-20-48-16.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2017-05-19-11-48-30.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2018-04-17-15-16-56.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2018-09-01-00-39-17.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2019-05-15-02-51-30.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2019-06-13-14-09-00.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2021-04-11-16-47-53.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_chat_log =========> client_chat_log_2021-05-12-18-22-34.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2017-02-25-19-13-21.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2017-03-09-11-43-29.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2017-05-05-16-53-47.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2017-05-18-20-33-21.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2017-05-18-20-48-15.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2017-05-19-11-48-29.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2018-04-17-15-16-55.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2018-09-01-00-39-16.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2019-05-15-02-51-28.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2019-06-13-14-08-56.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2021-04-11-16-47-51.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\backup\client_log =========> client_log_2021-05-12-18-22-33.txt
+C:\Users\Fox\Documents\Klei\DoNotStarveTogether\client_save =========> blocklist.txt
+C:\Users\Fox\Documents\My Games\Chivalry Medieval Warfare\LauncherCache =========> log.txt
+C:\Users\Fox\Documents\My Games\paladinslive\ChaosGame\Downloaded\landingpanel =========> landingpanelurl.txt
+C:\Users\Fox\Documents\My Games\Tom Clancy's The Division 2 =========> msi_token.txt
+C:\Users\Fox\Documents\Paradox Interactive\Hearts of Iron IV =========> pdx_settings.txt
+C:\Users\Fox\Documents\Paradox Interactive\Hearts of Iron IV =========> settings.txt
+C:\Users\Fox\Documents\Paradox Interactive\Hearts of Iron IV =========> video_data.txt
+C:\Users\Fox\Documents\Paradox Interactive\Hearts of Iron IV\.launcher-cache\news-feed =========> e12c8fe6-12b0-442d-9fd9-b7438e99967f.txt
+C:\Users\Fox\Documents\Paradox Interactive\Hearts of Iron IV\playlists =========> settings.txt
+C:\Users\Fox\Documents\Rockstar Games\GTA V\Benchmarks =========> Benchmark-17-01-27-14-31-30.txt
+C:\Users\Fox\Documents\Rockstar Games\Social Club\Launcher\Renderer\Service Worker\CacheStorage\7c129e28a53a20755871f994f1997209760a9724 =========> index.txt
+C:\Users\Fox\Documents\SavedGames\SpeedRunners\CEngineStorage\AllPlayers\Trails\Local\Import =========> Put .srt files here to import trails.txt
+C:\Users\Fox\Documents\Trackmania =========> UGCErrorsLog.txt
+C:\Users\Fox\Documents\Trackmania\Config =========> checksum.txt
+C:\Users\Fox\Documents\Trackmania\Maps\MatchSettings =========> TmpMatchSettings_1614942606.txt
+C:\Users\Fox\Documents\Trackmania\Maps\MatchSettings =========> TmpMatchSettings_1614944671.txt
+C:\Users\Fox\Documents\Trackmania\Maps\MatchSettings =========> TmpMatchSettings_1614980277.txt
+C:\Users\Fox\Documents\Trackmania\Maps\MatchSettings =========> TmpMatchSettings_1614980593.txt
+C:\Users\Fox\Downloads =========> 10k visa1.txt
+C:\Users\Fox\Downloads =========> mail.txt
+C:\Users\Fox\Downloads =========> Nord Vpn.txt
+C:\Users\Fox\Downloads\Instagram-master =========> requirements.txt
+C:\Users\Fox\Downloads\Instagram-master\Instagram-master =========> requirements.txt
+C:\Users\Fox\Downloads\Yeni klasör X =========> BullseyeCoverageError.txt
+C:\Users\Fox\Downloads\Yeni klasör X =========> Yeni Metin Belgesi.txt
+C:\Users\Fox\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200831 =========> MicrosoftEdgeSettingsBackup.txt
+C:\Users\Fox\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200831\DatastoreBackup =========> schema.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> bjk.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> emails.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> fb.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> Geçenler.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> gs.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> Kalanlar.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> mail.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> mail0.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> mailler.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> metin.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> txt_dosyalari.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> Öğrenci ders notları.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\pythonProject1\2021\text =========> şiir.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\aiohttp-3.7.4.post0.dist-info =========> LICENSE.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\aiohttp-3.7.4.post0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\async_timeout-3.0.1.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\attrs-21.2.0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\beautifulsoup4-4.10.0.dist-info =========> COPYING.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\beautifulsoup4-4.10.0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\certifi-2021.5.30.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\chardet-4.0.0.dist-info =========> entry_points.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\chardet-4.0.0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\charset_normalizer-2.0.5.dist-info =========> entry_points.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\charset_normalizer-2.0.5.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\discord.py-1.7.3.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\idna-3.2.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\multidict-5.1.0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\pip\_vendor =========> vendor.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\pip-21.2.4.dist-info =========> entry_points.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\pip-21.2.4.dist-info =========> LICENSE.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\pip-21.2.4.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\requests-2.26.0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\setuptools-56.2.0.dist-info =========> dependency_links.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\setuptools-56.2.0.dist-info =========> entry_points.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\setuptools-56.2.0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\soupsieve-2.2.1.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\typing_extensions-3.10.0.0.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\urllib3-1.26.6.dist-info =========> LICENSE.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\urllib3-1.26.6.dist-info =========> top_level.txt
+C:\Users\Fox\PycharmProjects\python_egzersizleri\venv\Lib\site-packages\yarl-1.6.3.dist-info =========> top_level.txt
+C:\Users\Fox\Saved Games\Respawn\Apex\local =========> previousgamestate.txt
+C:\Users\Fox\Saved Games\Respawn\Apex\local =========> videoconfig.txt

@@ -1,0 +1,4 @@
+350,mer,AA,AA,AA
+50,s,CC,FF,CC
+100,kaan,FF,FF,FF
+40,kursat,FF,AA,FF
