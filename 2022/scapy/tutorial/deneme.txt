@@ -30,16 +30,16 @@ Yayınevi : İTHAKİ YAYINLARI
 ****************************************************************************************************
 7.
 Kitap İsmi : Gece Yarısı Kütüphanesi
-Yazar İsmi :  Matt Haig
+Yazar İsmi : Matt Haig
 Yayınevi : DOMİNGO YAYINEVİ
 ****************************************************************************************************
 8.
-Kitap İsmi :       1984
+Kitap İsmi : 1984
 Yazar İsmi : George Orwell
 Yayınevi : CAN YAYINLARI
 ****************************************************************************************************
 9.
-Kitap İsmi :     Körlük
+Kitap İsmi : Körlük
 Yazar İsmi : Jose Saramago
 Yayınevi : KIRMIZI KEDİ YAYINEVİ
 ****************************************************************************************************
@@ -65,7 +65,7 @@ Yayınevi : İTHAKİ YAYINLARI
 ****************************************************************************************************
 14.
 Kitap İsmi : Benim Zürafam Uçabilir
-Yazar İsmi :  Mert Arık
+Yazar İsmi : Mert Arık
 Yayınevi : TİMAŞ ÇOCUK YAYINLARI
 ****************************************************************************************************
 15.
@@ -79,7 +79,7 @@ Yazar İsmi : Ahmet Hamdi Tanpınar
 Yayınevi : DERGAH YAYINLARI
 ****************************************************************************************************
 17.
-Kitap İsmi :       Momo
+Kitap İsmi : Momo
 Yazar İsmi : Michael Ende
 Yayınevi : PEGASUS YAYINLARI
 ****************************************************************************************************
