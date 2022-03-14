@@ -16,10 +16,12 @@ class QuotesSpider(scrapy.Spider):
         author_names = response.css("div.author.compact.ellipsis a::text").extract()
         publisher_names = response.css("div.publisher a span::text").extract()
         for i in zip(book_names,author_names,publisher_names):
-            yield {
+            with open("deneme.txt", "a", encoding="utf-8") as file:
+                file.write("{}.\nKitap İsmi : {:>10}\nYazar İsmi : {:>10}\nYayınevi : {:>10}\n".format(self.book_count,i[0],i[1].replace("  ","",1),i[2]))
+                file.write("*" * 100 + "\n")
+            self.book_count += 1
+            """yield {
                 "title" : i[0],
                 "author" : i[1],
                 "publisher" : i[2]
-            }
-        #with open("deneme.txt","a",encoding="utf-8") as file:
-        #    file.write()
+            }"""

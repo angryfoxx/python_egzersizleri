@@ -1,0 +1,100 @@
+1.
+Kitap İsmi : Var Mısın? & Güçlü Bir Yaşam İçin Öneriler
+Yazar İsmi : Doğan Cüceloğlu
+Yayınevi : KRONİK KİTAP
+****************************************************************************************************
+2.
+Kitap İsmi : Şeker Portakalı (Ciltsiz)
+Yazar İsmi : Jose Mauro De Vasconcelos
+Yayınevi : CAN YAYINLARI
+****************************************************************************************************
+3.
+Kitap İsmi : Kayıp Tanrılar Ülkesi
+Yazar İsmi : Ahmet Ümit
+Yayınevi : YAPI KREDİ YAYINLARI
+****************************************************************************************************
+4.
+Kitap İsmi : Simyacı (Ciltsiz)
+Yazar İsmi : Paulo Coelho
+Yayınevi : CAN YAYINLARI
+****************************************************************************************************
+5.
+Kitap İsmi : Fareler ve İnsanlar
+Yazar İsmi : John Steinbeck
+Yayınevi : SEL YAYINCILIK
+****************************************************************************************************
+6.
+Kitap İsmi : Ben, Kirke
+Yazar İsmi : Madeline Miller
+Yayınevi : İTHAKİ YAYINLARI
+****************************************************************************************************
+7.
+Kitap İsmi : Gece Yarısı Kütüphanesi
+Yazar İsmi :  Matt Haig
+Yayınevi : DOMİNGO YAYINEVİ
+****************************************************************************************************
+8.
+Kitap İsmi :       1984
+Yazar İsmi : George Orwell
+Yayınevi : CAN YAYINLARI
+****************************************************************************************************
+9.
+Kitap İsmi :     Körlük
+Yazar İsmi : Jose Saramago
+Yayınevi : KIRMIZI KEDİ YAYINEVİ
+****************************************************************************************************
+10.
+Kitap İsmi : Veba Geceleri
+Yazar İsmi : Orhan Pamuk
+Yayınevi : YAPI KREDİ YAYINLARI
+****************************************************************************************************
+11.
+Kitap İsmi : Hayvan Çiftliği (Ciltsiz)
+Yazar İsmi : George Orwell
+Yayınevi : CAN YAYINLARI
+****************************************************************************************************
+12.
+Kitap İsmi : Cesur Yeni Dünya
+Yazar İsmi : Aldous Huxley
+Yayınevi : İTHAKİ YAYINLARI
+****************************************************************************************************
+13.
+Kitap İsmi : Fahrenheit 451
+Yazar İsmi : Ray Bradbury
+Yayınevi : İTHAKİ YAYINLARI
+****************************************************************************************************
+14.
+Kitap İsmi : Benim Zürafam Uçabilir
+Yazar İsmi :  Mert Arık
+Yayınevi : TİMAŞ ÇOCUK YAYINLARI
+****************************************************************************************************
+15.
+Kitap İsmi : Kırmızı Pazartesi
+Yazar İsmi : Gabriel Garcia Marquez
+Yayınevi : CAN YAYINLARI
+****************************************************************************************************
+16.
+Kitap İsmi : Saatleri Ayarlama Enstitüsü
+Yazar İsmi : Ahmet Hamdi Tanpınar
+Yayınevi : DERGAH YAYINLARI
+****************************************************************************************************
+17.
+Kitap İsmi :       Momo
+Yazar İsmi : Michael Ende
+Yayınevi : PEGASUS YAYINLARI
+****************************************************************************************************
+18.
+Kitap İsmi : Balıkçı ve Oğlu
+Yazar İsmi : Zülfü Livaneli
+Yayınevi : İNKILAP KİTABEVİ
+****************************************************************************************************
+19.
+Kitap İsmi : Kürk Mantolu Madonna
+Yazar İsmi : Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+****************************************************************************************************
+20.
+Kitap İsmi : İçimizdeki Şeytan
+Yazar İsmi : Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+****************************************************************************************************
