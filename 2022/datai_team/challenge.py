@@ -75,9 +75,10 @@ print(array_rotation([4,5,6,7,8,9,10,11,12,13]))""" # array rotasyonu
         old_value = i
     sliced_list.remove([])
 
-    value = "ok"
     for i in sliced_list:
         if sliced_list.index(i) == sliced_list.index(i[::-1]):
-            value = i
-    return value
-""" # array pair
+            return i
+    return "ok"
+
+print(array_pair([5,6,6,5,3,3]))
+print(array_pair([5,6,6,5,8,9,9,8,6,5,5,6]))""" # array pair
