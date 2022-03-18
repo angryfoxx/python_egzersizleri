@@ -82,3 +82,14 @@ print(array_rotation([4,5,6,7,8,9,10,11,12,13]))""" # array rotasyonu
 
 print(array_pair([5,6,6,5,3,3]))
 print(array_pair([5,6,6,5,8,9,9,8,6,5,5,6]))""" # array pair
+"""def wordSplit(liste:list):
+    x = list(liste[0])
+    for i in range(0,len(x)):
+        c = x[::]
+        c.insert(i," ")
+        if "".join(c).split(" ")[0] in liste[1] and "".join(c).split(" ")[1] in liste[1]:
+            return "".join(c).split(" ")
+
+print(wordSplit(["deeplearning", "d,dll,a,deep,dee,base,lear,learning"]))
+print(wordSplit(["deeplear2ning", "d,dll,a,deep,dee,base,lear,learning"]))
+print(wordSplit(["deeplear2ning", "d,dll,a,deep,dee,base,lear,lear2ning"]))""" # word split
