@@ -298,3 +298,42 @@ print(threeSum(A))
 
 B = [12, 3, 1, -5, -4, 7]
 print(threeSum(B))""" # three sum
+"""def vertexCovering(liste:list):
+    failed = []
+    vertices = liste[-1][1:-1].split(",")
+    graph = liste[1][1:-1].split(",")
+    if len(vertices[0]) == 0:
+        return liste[1]
+    for i in graph:
+        flag = True
+        for j in vertices:
+            if j in i:
+                flag = False
+
+        if flag:
+            failed.append(i)
+
+    if len(failed) == 0:
+        return "yes"
+    return failed
+
+print(vertexCovering(["(A,B,C,D)","(A-B,A-D,B-D,A-C)","(A,B)"]))
+print(vertexCovering(["(A,B,C,D)","(A-B,A-D,B-D,A-C)","(C)"]))
+print(vertexCovering(["(A,B,C,D)","(A-B,A-D,B-D,A-C)","(C,B)"]))
+""" # vertex covering
+
+def catalanNumbers(n):
+    if n <= 1:
+        return 1
+
+    toplam = 0
+    for i in range(n):
+        toplam += catalanNumbers(i) * catalanNumbers(n - i - 1)
+
+    return toplam
+
+
+for i in range(10):
+    print(catalanNumbers(i))
+
+
