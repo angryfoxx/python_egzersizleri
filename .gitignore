@@ -133,3 +133,5 @@ dmypy.json
 .idea/*
 
 2022/selenium_/sel/chromedriver.exe
+
+2022/selenium_/chromedriver.exe
