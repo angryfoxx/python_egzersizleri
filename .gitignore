@@ -131,3 +131,5 @@ dmypy.json
 # IDE settings
 .vscode/
 .idea/*
+
+2022/selenium_/sel/chromedriver.exe
