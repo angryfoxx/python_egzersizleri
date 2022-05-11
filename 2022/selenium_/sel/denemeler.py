@@ -1,11 +1,11 @@
 import time
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.common.alert import Alert
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.print_page_options import PrintOptions
 
 options = ChromeOptions()
 options.binary_location = "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
@@ -32,7 +32,6 @@ with webdriver.Chrome(options=options) as driver:
         search_btn.click()
     
     driver.implicitly_wait(5)"""
-
     #driver.get("https://www.selenium.dev/documentation/webdriver/browser/alerts/")
     """driver.find_element(By.LINK_TEXT, "See an example alert").click()
     alert = WebDriverWait(driver, 3).until(expected_conditions.alert_is_present()) # uyarı oluşana kadar bekle ve bir değişkene ata
@@ -69,7 +68,7 @@ with webdriver.Chrome(options=options) as driver:
     
     driver.delete_all_cookies()
     print(driver.get_cookies()) # []""" # cookies
-    driver.get("https://www.selenium.dev/documentation/webdriver/browser/windows/")
+    """driver.get("https://www.selenium.dev/documentation/webdriver/browser/windows/")
     wait = WebDriverWait(driver, 10)
 
     original_window = driver.current_window_handle
@@ -111,4 +110,8 @@ with webdriver.Chrome(options=options) as driver:
     # driver.minimize_window(), driver.maximize_window(), driver.fullscreen_window()
 
     driver.save_screenshot("./deneme.png")
-    # windows
+
+    # driver.find_element(By.LINK_TEXT, "new window").screenshot("C:\\Users\\Fox\\Desktop\\deneme.png")
+
+""" # windows
+
