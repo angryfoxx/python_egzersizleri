@@ -9,8 +9,8 @@ browser = webdriver.Chrome(options=op)
 browser.get(url="https://twitter.com/i/flow/login")
 
 usern = "the_foxing"
-passw = "12491811asd"
-tel = "5464149975"
+passw = "*-*-*-*-*-"
+tel = "546*-*-75"
 
 time.sleep(2)
 username = browser.find_element_by_xpath("//*[@id='layers']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[5]/label/div/div[2]/div/input")
