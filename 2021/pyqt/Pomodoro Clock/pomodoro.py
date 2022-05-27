@@ -1,12 +1,16 @@
 __author__ = "FOX"
 
 import os
-import  sys
-from PyQt5.QtWidgets import QWidget,QApplication,QLabel,QPushButton,QProgressBar,QFrame,QButtonGroup,QMessageBox,QMainWindow
-from PyQt5.QtGui import QIcon,QFont
-from PyQt5.QtCore import QDateTime,QTimer,QUrl,Qt
-from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
+import sys
+
 from plyer import notification
+from PyQt5.QtCore import QDateTime, Qt, QTimer, QUrl
+from PyQt5.QtGui import QFont, QIcon
+from PyQt5.QtMultimedia import QMediaContent, QMediaPlayer
+from PyQt5.QtWidgets import (QApplication, QButtonGroup, QFrame, QLabel,
+                             QMainWindow, QMessageBox, QProgressBar,
+                             QPushButton, QWidget)
+
 
 class Design(QWidget):
     def __init__(self):

@@ -1,9 +1,10 @@
 #from django.http import Http404
 from django.http import HttpResponse
 #from django.template import loader
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import get_object_or_404, render
 
 from .models import Question
+
 
 def index(request):
     latest_question_list = Question.objects.order_by('-pub_date')[:5]

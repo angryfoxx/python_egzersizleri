@@ -196,8 +196,9 @@ while True:
         else:
             print("Hatalı işlem tekrar deneyiniz")
 '''
-import time
 import random
+import time
+
 sehir_listesi = ["adana", "adıyaman", "afyonkarahisar", "ağrı", "aksaray", "amasya", "ankara", "antalya",
                          "ardahan", "artvin", "aydın", "balıkesir", "bartın", "batman", "bayburt", "bilecik", "bingöl",
                          "bitlis", "bolu", "burdur", "bursa", "çanakkale", "çankırı", "çorum", "denizli", "diyarbakır",

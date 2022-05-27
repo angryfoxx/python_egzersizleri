@@ -1,10 +1,14 @@
 __author__ = "FOX"
 
-import requests
 import sys
-from PyQt5.QtWidgets import QWidget,QApplication,QLabel,QFileDialog,QMainWindow,qApp,QLineEdit,QComboBox,QPushButton,QDesktopWidget
-from PyQt5.QtCore import Qt,QDateTime,QTimer
-from PyQt5.QtGui import QIcon,QPixmap,QDoubleValidator
+
+import requests
+from PyQt5.QtCore import QDateTime, Qt, QTimer
+from PyQt5.QtGui import QDoubleValidator, QIcon, QPixmap
+from PyQt5.QtWidgets import (QApplication, QComboBox, QDesktopWidget,
+                             QFileDialog, QLabel, QLineEdit, QMainWindow,
+                             QPushButton, QWidget, qApp)
+
 
 class Hata(QWidget): # Hatalı bir işlem ya da internet olmadığı gibi durumlarda hata mesajı çıkması için tasarlandı QMessageBox/QErrorBox'ta kullanılabilir ben OOP için birkaç deneme yapmak için kendim tasarladım
     def __init__(self):

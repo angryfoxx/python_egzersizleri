@@ -1,6 +1,8 @@
-from PyQt5.QtWidgets import *
-import sys
 import random
+import sys
+
+from PyQt5.QtWidgets import *
+
 
 class Main(QWidget):
     def __init__(self):

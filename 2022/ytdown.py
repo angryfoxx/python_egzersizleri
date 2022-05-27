@@ -1,7 +1,10 @@
-from PyQt5.QtWidgets import QMainWindow,QPushButton,QHBoxLayout,QVBoxLayout,QWidget,QLineEdit,\
-    QApplication,QLabel,QComboBox,QWidget
-from PyQt5 import QtCore
 import sys
+
+from PyQt5 import QtCore
+from PyQt5.QtWidgets import (QApplication, QComboBox, QHBoxLayout, QLabel,
+                             QLineEdit, QMainWindow, QPushButton, QVBoxLayout,
+                             QWidget)
+
 
 class Tema(QWidget):
     def __init__(self):

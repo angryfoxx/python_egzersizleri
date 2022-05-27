@@ -1,5 +1,8 @@
 import sys
-from PyQt5.QtWidgets import QMainWindow,QApplication,QGroupBox,QHBoxLayout,QVBoxLayout,QLabel,QWidget
+
+from PyQt5.QtWidgets import (QApplication, QGroupBox, QHBoxLayout, QLabel,
+                             QMainWindow, QVBoxLayout, QWidget)
+
 
 class Deneme(QWidget):
     def __init__(self):

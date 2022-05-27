@@ -1,5 +1,7 @@
 import sqlite3
 import time
+
+
 class Sarki():
     def __init__(self,isim,sanatçı,albüm,şirket,sarkıuzunluk):
         self.isim = isim

@@ -1,5 +1,6 @@
 __author__ = "FOX"
 from datetime import datetime
+
 '''
 def kayit():
     a = input("Öğrencinin adını ve soyadını giriniz:")

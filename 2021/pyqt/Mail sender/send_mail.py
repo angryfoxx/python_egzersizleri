@@ -1,13 +1,17 @@
 __author__ = "FOX"
 
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 import os
-import  sys
+import smtplib
+import sys
 from datetime import datetime
-from PyQt5.QtWidgets import QWidget,QApplication,QVBoxLayout,QHBoxLayout,QTextEdit,QLabel,QPushButton,QFileDialog,QMainWindow,QLineEdit,qApp
-from PyQt5 import QtCore,QtGui
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+
+from PyQt5 import QtCore, QtGui
+from PyQt5.QtWidgets import (QApplication, QFileDialog, QHBoxLayout, QLabel,
+                             QLineEdit, QMainWindow, QPushButton, QTextEdit,
+                             QVBoxLayout, QWidget, qApp)
+
 
 class Info(QWidget):# Hata mesajı çıkması için tasarlandı QMessageBox/QErrorBox'ta kullanılabilir
 

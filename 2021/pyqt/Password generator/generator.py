@@ -1,9 +1,12 @@
 __author__ = "FOX"
 
 import random
-import  sys
-from PyQt5.QtWidgets import QWidget,QApplication,QVBoxLayout,QLabel,QPushButton,QHBoxLayout,QLineEdit,QMainWindow
-from PyQt5 import QtGui,QtCore
+import sys
+
+from PyQt5 import QtCore, QtGui
+from PyQt5.QtWidgets import (QApplication, QHBoxLayout, QLabel, QLineEdit,
+                             QMainWindow, QPushButton, QVBoxLayout, QWidget)
+
 
 class Tema(QWidget):
     def __init__(self):

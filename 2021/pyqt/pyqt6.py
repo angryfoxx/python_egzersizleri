@@ -1,17 +1,21 @@
 __author__ = "FOX"
 
-import time
-import sqlite3
-from datetime import date,datetime,timedelta
-import requests
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 import os
-import  sys
-from PyQt5.QtWidgets import QWidget,QApplication,QVBoxLayout,QTextEdit,QLabel,QPushButton,QHBoxLayout,QFileDialog
-from PyQt5.QtWidgets import QAction,QMainWindow,qApp,QLineEdit,QComboBox,QMessageBox
-from PyQt5 import QtCore,QtPrintSupport,QtWidgets,QtGui
+import smtplib
+import sqlite3
+import sys
+import time
+from datetime import date, datetime, timedelta
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+
+import requests
+from PyQt5 import QtCore, QtGui, QtPrintSupport, QtWidgets
+from PyQt5.QtWidgets import (QAction, QApplication, QComboBox, QFileDialog,
+                             QHBoxLayout, QLabel, QLineEdit, QMainWindow,
+                             QMessageBox, QPushButton, QTextEdit, QVBoxLayout,
+                             QWidget, qApp)
+
 """def pencere():
     app = QtWidgets.QApplication(sys.argv)
 

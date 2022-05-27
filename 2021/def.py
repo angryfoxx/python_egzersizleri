@@ -112,7 +112,8 @@ while True:
         a = int(a)
         sayi_okuma(a)
 """ #sayı okuma_bitmis
-import  re
+import re
+
 """import re
 n, m = map(int, input().split())
 a, b = [], ""
